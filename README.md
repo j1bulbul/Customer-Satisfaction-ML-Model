@@ -49,4 +49,4 @@ Key Points about the Repository:
 
 3. Decision_tree_finetune_more: This was an attempt to add even more fine-tuning to the hyperparameters in a decision tree model, I dont think had a huge impact.
 
-When running these scripts, aside from some of the EDA bits and some extra things, you will see the accuracy score for: training set base model, validation set base model,  training set optimized model, validation set optimized model for all the models I tried. Addiitonally, you will 
+When running these scripts, aside from some of the EDA bits and some extra things, you will see the accuracy score for: training set base model, validation set base model,  training set optimized model, validation set optimized model for all the models tested.
